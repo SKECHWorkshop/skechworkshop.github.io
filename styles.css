@@ -378,7 +378,8 @@ a:link, a:visited {
 }
 
 #banner #insert {
-	background: url(files/bici_header.png) no-repeat;
+	background-image: url("files/bici_header.png");
+	background-repeat: no-repeat;
 }
 
 #pageHeader {
